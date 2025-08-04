@@ -1,4 +1,4 @@
-# E-commerce-Sales
+# E-commerce-Sales Dashboard
 🛒 E-commerce Sales Dashboard Visualizing Key Metrics to Optimize Sales Performance and Drive Business Insights
 
 📌 Project Overview This Power BI dashboard provides a comprehensive visualization of an e-commerce company’s sales data. It aims to help stakeholders understand sales performance, customer behavior, product trends, and regional distribution to make data-driven business decisions.
